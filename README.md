@@ -53,6 +53,7 @@ The project followed these steps:
 ## Model Architecture
 
 The CNN architecture includes :
+![image](https://github.com/user-attachments/assets/d81ce8a1-a3e0-4bf7-bedb-e6c550a5a3b4)
 
 - **Convolutional Layers:** Extract features from the images.
 - **Pooling Layers:** Reduce the dimensionality of feature maps.
@@ -77,11 +78,11 @@ This section will be updated with weekly progress and links to corresponding Jup
 ## How to Run
 
 1. Clone the repository:
-*        git clone https://github.com/Danishh07/CNN-PlasticWasteClassifier [Your Repository Link]  
-*       cd CNN-PlasticClassifier [Your Repository Name]
+*     git clone https://github.com/Danishh07/CNN-PlasticWasteClassifier [Your Repository Link]  
+*     cd CNN-PlasticClassifier [Your Repository Name]
 
 2. Install the required dependencies:
-*       pip install -r requirements.txt
+*     pip install -r requirements.txt
 
 3. Train the model:
   *     python train.py  
