@@ -69,7 +69,11 @@ This section will be updated with weekly progress and links to corresponding Jup
   - Visualized sample data.
 
 ### Week 2 : TBD
-*Details will be added here*
+- **Activities:**
+  - Train the Model: Feed the dataset into the model, adjust hyperparameters, and optimize using techniques like backpropagation.
+  - Evaluate Performance: Assess the model using metrics such as accuracy, precision, recall, and F1-score on a validation/test dataset.
+  - Fine-tune & Optimize: Adjust hyperparameters, use regularization, or apply techniques like transfer learning to improve performance.
+  - Make Predictions: Use the trained model to generate predictions on unseen data and analyze the results.
 
 ### Week 3 : TBD
 *Details will be added here*
